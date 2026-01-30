@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Bhadana
 
-I’m a passionate **Data Scientist & Full-Stack Developer** with a strong foundation in **Python, Machine Learning, Statistics**, and **modern web development**.  
+I’m a **Data Scientist** with a strong foundation in **Python, Machine Learning, Statistics**, and **modern web development**.  
 I love turning **data into insights** and building **intelligent, interactive web applications**.  
 
 ---
@@ -57,9 +57,6 @@ I love turning **data into insights** and building **intelligent, interactive we
 - **Full-stack AI applications** using Python + JS frameworks  
 
 ---
-
-## 📊 GitHub Stats
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
