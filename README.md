@@ -68,23 +68,6 @@ I love turning **data into insights** and building **intelligent, interactive we
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-# 🚀 Featured Projects
-
-## 📊 Smart Inventory & Pricing Optimization System
-- Built a machine learning system to optimize inventory levels and pricing
-- Applied forecasting and optimization techniques
-- Used **Python, Pandas, SciPy, PuLP, SQL, and XGBoost**
-
-## ⚠️ Supply Chain Disruption Risk Analyzer
-- Designed predictive models for supply chain risk analysis
-- Applied **Queueing Theory, Game Theory, and Optimization Models**
-- Visualized analytics using interactive dashboards
-
-## 🤖 AI-Powered Data Dashboard
-- Developed a full-stack dashboard using **React + Node.js + Python**
-- Integrated ML models and real-time analytics features
 
 ---
 
